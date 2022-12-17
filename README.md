@@ -1,5 +1,2 @@
 # Trip-Hub
 
-'''lua 
-xd
-'''
